@@ -1,0 +1,14 @@
+{
+  "name": "react-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Run locally in IntelliJ'",
+    "build": "echo 'Success'",
+    "preview": "echo 'Preview'",
+    "lint": "echo 'Done'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
